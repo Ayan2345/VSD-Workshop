@@ -8,3 +8,6 @@ How to invoke OpenLANE flow:
 2. Run the command ```docker``` to start the flow.
 3. Then use the command ```./flow.tcl -interactive``` to enter OpenLANE in interactive mode.
 4. In interactive mode, type ```package require openlane 0.9```.
+5. We have decided to run this flow for PicoRV32A, which is a CPU core used to implement the RISC V instruction set.
+6. Prepare for synthesis using the command ```prep -design picorv32a ```. Note that these designs are already present in openlane_working_dir/openlane/designs directory.
+7. Run synthesis using the command ```run_synthesis```. 
