@@ -12,4 +12,5 @@ How to invoke OpenLANE flow:
 6. Prepare for synthesis using the command ```prep -design picorv32a ```. Note that these designs are already present in ```~/openlane_working_dir/openlane/designs``` directory.
 7. Run synthesis using the command ```run_synthesis```.
 8. Navigate to the location ```designs/picorv32a/runs``` and locate the appropriate folder using the date of running the synthesis. Go inside that folder to find the results.
-9. 
+9. Now, the objective of the first day lab session is to find the flip flop ratio.
+10. Flip flop ratio is given by $F/F ratio =\frac{Number of flip flops}{Number of cells}$ 
