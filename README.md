@@ -20,4 +20,5 @@ How to invoke OpenLANE flow:
 
 By observation, $Number of flip flops = 1613$ and $Number of cells = 14876$
 hence, $F/F ratio = 0.14$. 
+
 11. Find the synthesised netlist in the location: ```designs/picorv32a/runs/<date_time>/results/synthesis``` as the file name ```picorv32a.synthesis.v```. Also important is the yosys report file (.rpt) present in the location: ```designs/picorv32a/runs/<date_time>/reports/synthesis``` .
