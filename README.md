@@ -15,5 +15,5 @@ How to invoke OpenLANE flow:
 9. Now, the objective of the first day lab session is to find the flip flop ratio.
 10. Flip flop ratio is given by
 <p align ="center">
-  $`F/F ratio =\frac{Number of flip flops}{Number of cells}`$ 
+  $F/F  ratio = \frac{Number  of  flip  flops}{Number  of  cells}$ 
 </p>
