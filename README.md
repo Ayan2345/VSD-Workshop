@@ -17,4 +17,5 @@ How to invoke OpenLANE flow:
 <p align ="center">
   $F/F  ratio = \frac{Number  of  flip  flops}{Number  of  cells}$ 
 </p>
+
 By observation, $Number of flip flops = 1613$ and $Nuumber of cells = 14876$
